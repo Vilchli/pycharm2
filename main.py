@@ -1,8 +1,8 @@
-from funcs import boo
+from funcs import foo
 
-addition = boo
+subtraction = foo
 
-print(addition)
+print(subtraction)
 
 
 
